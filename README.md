@@ -11,5 +11,5 @@ Hello world!
 Funkčnost řešení ověříte následujícím příkazem:
 
 ```bash
-pytest tests.py
+pytest test_hello_world.py
 ```
